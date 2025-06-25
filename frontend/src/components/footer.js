@@ -11,10 +11,10 @@ export default function App() {
 
         <div>
           <a href='' className='me-4 text-reset'>
-            <MDBIcon fab icon="facebook-f" />
+            <MDBIcon fab icon="Facebook-f" />
           </a>
           <a href='' className='me-4 text-reset'>
-            <MDBIcon fab icon="twitter" />
+            <MDBIcon fab icon="X" />
           </a>
           <a href='' className='me-4 text-reset'>
             <MDBIcon fab icon="google" />
